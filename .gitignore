@@ -32,6 +32,10 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.local.example
+
+# Claude Code 로컬 설정
+.claude/settings.local.json
 
 # vercel
 .vercel
