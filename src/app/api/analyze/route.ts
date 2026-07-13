@@ -150,7 +150,7 @@ ${JSON.stringify(referenceData, null, 2)}`;
   try {
     const client = new Anthropic();
     const response = await client.messages.create({
-      model: "claude-opus-4-8",
+      model: "claude-sonnet-5",
       max_tokens: 16000,
       thinking: { type: "adaptive" },
       system: systemPrompt,

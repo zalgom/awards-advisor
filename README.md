@@ -15,7 +15,7 @@
 - Next.js 15 (App Router) / React 19 / TypeScript
 - Tailwind CSS v4
 - Zustand (상태 관리)
-- Anthropic TypeScript SDK (`claude-opus-4-8`, 구조화 출력 + 어댑티브 씽킹)
+- Anthropic TypeScript SDK (`claude-sonnet-5`, 구조화 출력 + 어댑티브 씽킹)
 - pdfjs-dist(PDF), jszip(PPTX) — 클라이언트 텍스트 추출
 - pptxgenjs — PPTX 보고서 생성
 - Zod — API 요청 검증
